@@ -1,3 +1,9 @@
 Dit is een test
 
-Ook hier typ ik iets voor exercise 3
+<<<<<<< HEAD
+Ook hier typ ik iets voor exercise 3 nog eens
+=======
+Nu een test voor exercise 3
+
+lets goo nog een updateje
+>>>>>>> 6530d44c5797ac7e50af64b235c0d8a32c1761fd
