@@ -1,7 +1,0 @@
-Hello!!
-<<<<<<< HEAD
-I have to write this line also
-=======
-
-Test for the next exercise!
->>>>>>> 62bc2a6412c0a316cd152cb32e5bff57afb2f9d0
